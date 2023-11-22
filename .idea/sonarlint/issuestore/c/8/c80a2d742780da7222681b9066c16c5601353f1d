@@ -1,0 +1,62 @@
+
+E
+java:S16043"(Make this anonymous inner class a lambda(ÓÙÑÛ8Í¿“•¼1
+E
+java:S1604;"(Make this anonymous inner class a lambda(ééÔ«8Í¿“•¼1
+J
+java:S1604C"(Make this anonymous inner class a lambda(Ññ¡“şÿÿÿÿ8Í¿“•¼1
+E
+java:S1604L"(Make this anonymous inner class a lambda(Æ¸ÁÉ8Í¿“•¼1
+J
+java:S1604T"(Make this anonymous inner class a lambda(½İí·şÿÿÿÿ8Í¿“•¼1
+J
+java:S1604\"(Make this anonymous inner class a lambda(Èç¨ªûÿÿÿÿ8Í¿“•¼1
+E
+java:S1604d"(Make this anonymous inner class a lambda(·„ø»8Í¿“•¼1
+J
+java:S1604l"(Make this anonymous inner class a lambda(Ó¢µŒüÿÿÿÿ8Í¿“•¼1
+J
+java:S1604t"(Make this anonymous inner class a lambda(ñĞˆÅøÿÿÿÿ8Í¿“•¼1
+J
+java:S1604|"(Make this anonymous inner class a lambda(•¯ôâúÿÿÿÿ8Í¿“•¼1
+F
+java:S1604„"(Make this anonymous inner class a lambda(Ò²öì8Í¿“•¼1
+K
+java:S1604Œ"(Make this anonymous inner class a lambda(ã¶æÍùÿÿÿÿ8Í¿“•¼1
+F
+java:S1604”"(Make this anonymous inner class a lambda(ÕŞ£8Í¿“•¼1
+F
+java:S1604œ"(Make this anonymous inner class a lambda(¹ĞĞ8Í¿“•¼1
+K
+java:S1604¤"(Make this anonymous inner class a lambda(ÙÊŞòÿÿÿÿÿ8Í¿“•¼1
+F
+java:S1604¬"(Make this anonymous inner class a lambda(ÎÒû8Î¿“•¼1
+F
+java:S1604´"(Make this anonymous inner class a lambda(Ùá˜•8Î¿“•¼1
+q	java:S116"PRename this field "btn_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”ú¿şÿÿÿÿ8á¿“•¼1
+q	java:S116"PRename this field "btn_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”ú¿şÿÿÿÿ8á¿“•¼1
+q	java:S116"PRename this field "btn_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”ú¿şÿÿÿÿ8á¿“•¼1
+q	java:S116"PRename this field "btn_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”ú¿şÿÿÿÿ8á¿“•¼1
+q	java:S116"PRename this field "btn_5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”ú¿şÿÿÿÿ8á¿“•¼1
+q	java:S116"PRename this field "btn_6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”ú¿şÿÿÿÿ8á¿“•¼1
+q	java:S116"PRename this field "btn_7" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”ú¿şÿÿÿÿ8á¿“•¼1
+q	java:S116"PRename this field "btn_8" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”ú¿şÿÿÿÿ8á¿“•¼1
+q	java:S116"PRename this field "btn_9" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”ú¿şÿÿÿÿ8á¿“•¼1
+q	java:S116"PRename this field "btn_0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”ú¿şÿÿÿÿ8á¿“•¼1
+s	java:S116"RRename this field "btn_dot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë® ·ÿÿÿÿÿ8á¿“•¼1
+u	java:S116"TRename this field "btn_equal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë® ·ÿÿÿÿÿ8â¿“•¼1
+r	java:S116"QRename this field "btn_ac" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë® ·ÿÿÿÿÿ8â¿“•¼1
+v	java:S116"URename this field "btn_module" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë® ·ÿÿÿÿÿ8â¿“•¼1
+t	java:S116"SRename this field "btn_plus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë® ·ÿÿÿÿÿ8â¿“•¼1
+u	java:S116"TRename this field "btn_minus" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë® ·ÿÿÿÿÿ8â¿“•¼1
+~	java:S116"]Rename this field "btn_multiplication" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë® ·ÿÿÿÿÿ8â¿“•¼1
+d
+java:S1659"BDeclare "btn_2" and all following declarations on a separate line.(Ì”ú¿şÿÿÿÿ8ê¿“•¼1
+h
+java:S1659"FDeclare "btn_equal" and all following declarations on a separate line.(Ë® ·ÿÿÿÿÿ8ë¿“•¼1
+D
+java:S1659"'Declare "outPuttxt" on a separate line.(§¸‡­8ë¿“•¼1
+f
+java:S5361¹"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¬Œô€8ü¿“•¼1
+k
+java:S5361º"HReplace this call to "replaceAll()" by a call to the "replace()" method.(»¹Üßúÿÿÿÿ8ü¿“•¼1
